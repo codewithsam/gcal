@@ -1,8 +1,6 @@
 import { Fragment, useEffect, useState } from "react"
 import { SETTINGS } from "./constants";
 
-//bhaskar.aggarwal@telusinternational.com
-//bhaskaraggarwal794@gmail.com
 
 
 const initializeMap = (days, time) => {
